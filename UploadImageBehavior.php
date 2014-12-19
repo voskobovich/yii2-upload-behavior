@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\behaviors;
+namespace voskobovich\behaviors;
 
 use Yii;
 use yii\base\InvalidConfigException;
