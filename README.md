@@ -1,2 +1,2 @@
-ImageUploadBehavior
+Yii2 Upload Behavior
 ===================
